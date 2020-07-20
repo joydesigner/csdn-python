@@ -14,7 +14,8 @@ old_time = None
 
 while True:
     r = requests.get(api)
-    if r.status != 200:
+    print(f'this is response: {r}')
+    if r.status_code != 200:
         print('请求api失败')
         break
     # how to tell project is updated or not? simple, by project time, if time updated, project is updated
