@@ -1,0 +1,799 @@
+Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 62, in get_up_base_info
+    save_file(filepath, content)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 26, in save_file
+    with open(filepath, 'a') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'up_100/爱做饭的芋头SAMA/17409016_base_info.json'
+name: 爱做饭的芋头SAMA, uid: 17409016Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 啊吗粽, uid: 7552204Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 阿幕降临, uid: 38351330Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 波桑吃遍世界, uid: 22141287Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 宝剑嫂, uid: 113362335Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 长歌与小见见, uid: 3682229Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 纯黑, uid: 585267Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 吃货请闭眼, uid: 94114029Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 吃货明3, uid: 216623621Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 潮汕好男人, uid: 19071708Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 嘟督不噶油, uid: 2403047Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 逗川kshadow, uid: 234256Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 东尼ookii, uid: 285499073Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 电影最TOP, uid: 17819768Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 盗月社食遇记, uid: 99157282Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 倒悬的橘子, uid: 40966108Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 大祥哥来了, uid: 2920960Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 丰兄来了, uid: 1918296Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 芳斯塔芙, uid: 72270557Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 泛式, uid: 63231Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 孤独的美食基, uid: 4474705Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 尕丶天堂, uid: 216025Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 花少北丶, uid: 2206456Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 花花与三猫CatLive, uid: 9008159Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 黑桐谷歌, uid: 43536Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 黑椒墨鱼, uid: 14254182Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 还有一天就放假了, uid: 7792521Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 槐安遗梦, uid: 36825256Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: ilem, uid: 3379951Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 敬汉卿, uid: 9824766Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 杰里德Jared, uid: 104207471Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 记录生活的蛋黄派, uid: 337521240Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 极客湾Geekerwan, uid: 25876945Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 机智的党妹, uid: 466272Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 狂风桑, uid: 1893045Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 科技美学, uid: 3766866Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 靠谱电竞, uid: 279991456Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 靠脸吃饭的徐大王, uid: 16794231Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: Kevin英语情报局, uid: 10345615Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: kei和marin, uid: 16853896Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: KBShinya, uid: 423442Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 罗汉解说, uid: 51896064Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 刘老师说电影, uid: 79061224Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 泠鸢yousa, uid: 282994Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 凉风Kaze, uid: 14110780Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 力元君, uid: 19642758Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 老坛胡说, uid: 279583114Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 老师好我叫何同学, uid: 163637592Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 老番茄, uid: 546195Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 蜡笔和小勋, uid: 250111460Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 拉宏桑, uid: 11870568Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: LexBurner, uid: 777536Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 木鱼水心, uid: 927587Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 某幻君, uid: 1577804Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 墨韵Moyun, uid: 2374194Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 绵羊料理, uid: 18202105Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 猫店, uid: 24314825Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 马壮实Hera, uid: 17546432Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 努力的Lorre, uid: 7487399Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 纳豆奶奶, uid: 6574487Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: OELoop, uid: 6171645Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 怕上火暴王老菊, uid: 423895Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 浅澄月, uid: 8034163Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 枪弹轨迹, uid: 515993Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 起小点是大腿, uid: 1565155Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 齐天大肾余潇洒, uid: 5293668Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 三无Marblue, uid: 284120Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 水一大魔王, uid: 1950209Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 守护茶茶, uid: 37946996Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 手工耿, uid: 280793434Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 十音Shiyin, uid: 257975429Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 渗透之C君, uid: 4162287Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 神奇的老皮, uid: 3380239Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 神秘店长A, uid: 295711424Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 山下智博, uid: 1643718Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: STN工作室, uid: 7349Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 天天卡牌, uid: 10462362Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 我是郭杰瑞, uid: 176037767Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 我是怪异君, uid: 4408538Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 温柔JUNZ, uid: 265059948Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 歪果仁研究协会, uid: 32820037Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 徐大虾咯, uid: 13354765Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 徐大sao, uid: 390461123Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: -欣小萌-, uid: 8366990Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 小片片说大片, uid: 10119428Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 小可儿, uid: 185546Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 小潮院长, uid: 5970160Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 逍遥散人, uid: 168598Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 翔翔大作战, uid: 196356191Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 贤宝宝Baby, uid: 3957971Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 远古时代装机猿, uid: 35359510Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 与山0v0, uid: 26240675Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 影视飓风, uid: 946974Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 伊丽莎白鼠, uid: 375375Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 痒局长, uid: 322892Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: =咬人猫=, uid: 116683Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 朱一旦的枯燥生活, uid: 437316738Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 周六野Zoey, uid: 62540916Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(dir_path)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: 中国BOY超级大猩猩, uid: 562197Traceback (most recent call last):
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 59, in get_up_base_info
+    up_dir = make_dir(name)
+  File "/Users/xinzheng/experiments/csdn/up100/up_100.py", line 33, in make_dir
+    os.makedirs(up)
+  File "/Users/xinzheng/opt/anaconda3/envs/csdn/lib/python3.7/os.py", line 223, in makedirs
+    mkdir(name, mode)
+FileExistsError: [Errno 17] File exists: 'up_100'
+name: zettaranc, uid: 326246517
