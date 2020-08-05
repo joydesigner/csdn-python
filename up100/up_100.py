@@ -3,6 +3,7 @@ import os
 import json
 import traceback
 from requests.adapters import HTTPAdapter
+from requests.exceptions import Timeout
 
 dir_path = os.path.join('up_100')
 
@@ -78,9 +79,47 @@ def base_info_task(power_json):
         get_up_base_info(name, uid)
 
 
+def get_up_video_info(name, uid, filepath):
+    res = read_json(filepath)
+    # print(f'response: {res}')
+    vlist = res['data']['list']['vlist']
+    for v in vlist:
+        aid = v['aid']
+        url = f'https://api.bilibili.com/x/player/pagelist?aid={aid}&jsonp=jsonp'
+        player = get_http_session().get(url, timeout=10)
+        player = player.json()
+        print(f'play is ${player}')
+        data = player['data']  # list
+        print(f'data is: {data}')
+        if not data:
+            return
+        for d in data:
+            try:
+                cid = d['cid']
+                # 弹幕
+                barrage_url = f'https://api.bilibili.com/x/v1/dm/list.so?oid={cid}'
+                r = get_http_session().get(barrage_url, timeout=10)
+                # 弹幕 -> xml
+                uid_dir_path = os.path.join(dir_path, uid)
+                if not os.path.exists(uid_dir_path):
+                    os.makedirs(uid_dir_path)
+                barrage_path = os.path.join(uid_dir_path, f'barrage_{aid}.xml')
+                r.encoding = 'utf-8'
+                content = r.text
+                save_file(barrage_path, content)
+                print(f'video id: {aid} barrage saved successfully')
+            except:
+                log(traceback.format_exc(), 'error',
+                    'get_up_video_info_error.log')
+                error_str = f'name: {name}, uid: {uid}'
+                log(error_str, 'error', 'get_up_video_info_error.log')
+
+
 def main():
-    power_up = read_json('power_up_100.json')
-    base_info_task(power_up)
+    # power_up = read_json('power_up_100.json')
+    # base_info_task(power_up)
+    get_up_video_info('-欣小萌-', '8366990',
+                      './up_100/-欣小萌-/8366990_base_info.json')
 
 
 if __name__ == '__main__':
